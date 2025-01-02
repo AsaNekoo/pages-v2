@@ -1,0 +1,1 @@
+.btn{cursor:pointer;display:block;text-decoration:none;&:hover{text-decoration:none}}.btn:before{content:none}.btn:after{backface-visibility:hidden;border-width:0 0 1px;content:"";display:block;margin:0 auto;transition:all .28s ease-in-out;width:0}.btn:hover:after{border-color:var(--foreground);transition:width .35s ease-in-out;width:100%}
